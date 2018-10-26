@@ -6,7 +6,7 @@ float *y_plot;
 
 float *mean_seller_money_plot;
 float *mean_num_of_auctions;
-
+//peozeoulas@@@@@
 int iauction = 0;
 
 float fakme[] = { 10000, 1000, 200, 100, 50, 20, 10, 5, 2, 1 };
